@@ -1,0 +1,14 @@
+
+#submit {
+height:48%;
+width:100%;
+background-color:blue;
+font-size:3em;
+color:white;
+font-family:"Impact";
+font-weight:bold;
+}
+#submit:hover{
+background-color:red;
+}
+
